@@ -19,7 +19,8 @@ organizations:
     url: 'siat.cas.cn'
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I’m currently a tenure-track assistant professor and an associate investigator at Shenzhen Institute of Advanced Technologies (SIAT), Chinese Academy of Sciences. Previously, I was a postdoctoral research scientist at Columbia University, where I work with Liam Paninski. Before that, I was a graduate student working with Robert Kass at Carnegie Mellon University (CMU). And before that, I was an undergraduate majoying physics at University of Science and Technology of China (USTC), where I was introduced to neuroscience research in Guoqiang Bi’s lab.
+bio: Computational Neuroscience + Machine Learning
+# I’m currently a tenure-track assistant professor and an associate investigator at Shenzhen Institute of Advanced Technologies (SIAT), Chinese Academy of Sciences. Previously, I was a postdoctoral research scientist at Columbia University, where I work with Liam Paninski. Before that, I was a graduate student working with Robert Kass at Carnegie Mellon University (CMU). And before that, I was an undergraduate majoying physics at University of Science and Technology of China (USTC), where I was introduced to neuroscience research in Guoqiang Bi’s lab.
 
 # My research lies at the intersection of computational neuroscience and machine learning, focusing on the applications of quantitative approaches to the study of the brain. My current project is to develop new methods for analyzing large-scale multi neuronal recordings, with an emphasis on calcium imaging data. During my PhD studies, I was focusing on the analysis of spike trains and local field potentials.
 
