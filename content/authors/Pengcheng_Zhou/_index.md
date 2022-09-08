@@ -77,7 +77,7 @@ highlight_name: true
 user_groups:
   - Principal Investigators
 ---
-I’m currently a tenure-track assistant professor and an associate investigator at [Shenzhen Institute of Advanced Technologies (SIAT)](http://siat.cas.cn), Chinese Academy of Sciences. Previously, I was a postdoctoral research scientist at Columbia University, where I work with Liam Paninski. Before that, I was a graduate student working with Robert Kass at Carnegie Mellon University (CMU). And before that, I was an undergraduate majoying physics at University of Science and Technology of China (USTC), where I was introduced to neuroscience research in Guoqiang Bi’s lab.
+I’m currently a tenure-track assistant professor and an associate investigator at [Shenzhen Institute of Advanced Technologies (SIAT)](http://siat.cas.cn), Chinese Academy of Sciences. Previously, I was a postdoctoral research scientist at [Columbia University](https://www.columbia.edu/), where I work with [Liam Paninski](http://www.stat.columbia.edu/~liam/). Before that, I was a graduate student working with [Robert Kass](https://www.stat.cmu.edu/~kass/) at [Carnegie Mellon University (CMU)](cmu.edu). And before that, I was an undergraduate majoying physics at [University of Science and Technology of China (USTC)](ustc.edu.cn), where I was introduced to neuroscience research in [Guoqiang Bi](https://neurophysics.ustc.edu.cn/main.htm)’s lab.
 
 My research lies at the intersection of computational neuroscience and machine learning, focusing on the applications of quantitative approaches to the study of the brain. With the passion for exploring the information hidden in complicated datasets, I’m open to collaborations.
 

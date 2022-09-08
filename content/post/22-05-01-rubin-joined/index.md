@@ -6,4 +6,4 @@ Welcome Rubin Zhao to our team!
 
 <!--more-->
 
-Rubin Zhao graduated from Hangzhou Dianzi University with a BS.c degree in artifical intelligence this year. He will work on developing efficient algorithms for automatically tracing neuronal fibers in 3D whole-brain imaging data.
+Rubin Zhao graduated from Hangzhou Dianzi University with a BSc. degree of artifical intelligence this year. He will work on developing efficient algorithms to automatically trace neuronal fibers in 3D whole-brain imaging data.
