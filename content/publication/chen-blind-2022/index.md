@@ -65,5 +65,7 @@ publication: '*PLoS Computational Biology*'
 doi: 10.1371/journal.pcbi.1009991
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9020678/
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009991
+- name: PDF
+  url: article.pdf
 ---

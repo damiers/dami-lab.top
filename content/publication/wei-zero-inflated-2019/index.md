@@ -39,7 +39,7 @@ image:
 projects: []
 publishDate: '2022-06-21T09:49:51.653630Z'
 publication_types:
-- '4'
+- '2'
 abstract: Calcium imaging is a critical tool for measuring the activity of large neural
   populations. Much effort has been devoted to developing \"pre-processing\" tools
   for calcium video data, addressing the important issues of e.g., motion correction,
@@ -57,9 +57,11 @@ abstract: Calcium imaging is a critical tool for measuring the activity of large
   of both simulated and real neural data, and can therefore play a useful role in
   bridging calcium imaging analysis methods with tools for analyzing activity in large
   neural populations.
-publication: ''
+publication: 'Neurons, Behavior, Data analysis, and Theory'
 doi: 10.1101/637652
 links:
 - name: URL
   url: http://arxiv.org/abs/2006.03737
+- name: PDF
+  url: article.pdf
 ---
