@@ -6,7 +6,7 @@ title: Zhao Rubin
 superuser: true
 
 # Role/position
-role: Research Assistant of Shenzhen Institute of advanced technology
+role: Research Assistant (2022.08 -- ) 
 
 # Organizations/Affiliations
 organizations:
@@ -47,4 +47,4 @@ I'm currently a research assistant at Shenzhen Institute of Advanced Technologie
 Currently I'm working on developing semi-automated neurite tracing tools via deep reinforcement learning and etc. Or in other word, to train an agent which travels through dendrite and axons in the 3D image of neural system, labeling the neurites and somas it walked through. Hopefully, the agent managed to seek a little way out in the neural system, and so do I.
 
 
-As for myself, I don't have other interests except running
+As for myself, I don't have other interests except running.

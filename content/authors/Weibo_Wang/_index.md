@@ -6,7 +6,7 @@ title: Wang Weibo
 superuser: true
 
 # Role/position
-role: Graduate Student of Shenzhen Institute of advanced technology
+role: Graduate Student (2021.08 -- )
 
 # Organizations/Affiliations
 organizations:
@@ -17,9 +17,9 @@ organizations:
 
 
 interests:
-  - computer vision
-  - mechine learning
-  - super-resolution processing of microscopic imaging
+  - Computer vision
+  - Mechine learning
+  - Super-resolution for microscopic images
 
 
 # Social/Academic Networking

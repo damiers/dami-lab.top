@@ -6,7 +6,7 @@ title: Ding Shiyi
 superuser: true
 
 # Role/position
-role: Graduate Student of Shenzhen Institute of advanced technology
+role: Graduate Student (2022.08 -- ) 
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,9 @@ organizations:
 
 interests:
   - Statistics
-  - image process
-  - mathematical modeling
-  - machine learning and deep learning
+  - Image process
+  - Mathematical modeling
+  - Machine learning and deep learning
 
 
 # Social/Academic Networking

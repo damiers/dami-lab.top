@@ -71,5 +71,5 @@ user_groups:
   - Visitors
 ---
 
-I'm always looking for good students (both graduate students and committed, well-prepared undergraduates) to collaborate with.  If you're interested, or have a related project in mind that I might be able to contribute to, please contact me by email.
+I'm always looking for good postdocs and students (both graduate students and committed, well-prepared undergraduates) to collaborate with.  If you're interested, or have a related project in mind that I might be able to contribute to, please contact me by email.
 

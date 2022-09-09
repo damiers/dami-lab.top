@@ -6,7 +6,7 @@ title: Dong Rihe
 superuser: true
 
 # Role/position
-role: Graduate Student of Shenzhen Institute of advanced technology
+role: Graduate Student (2022.08 -- ) 
 
 # Organizations/Affiliations
 organizations:
@@ -17,8 +17,9 @@ organizations:
 bio: My research interests include calcium fluorescence microscopic image processing and deep learning.
 
 interests:
-  - calcium fluorescence microscopic image processing
-  - deep learning
+  - Calcium image data analysis 
+  - Deep learning
+
 social:
   - icon: envelope
     icon_pack: fas

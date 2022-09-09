@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Liu Yg
+title: Liu Yong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate Student of Shenzhen Institute of advanced technology
+role: Graduate Student (Since 2022)
 
 # Organizations/Affiliations
 organizations:
@@ -17,8 +17,8 @@ organizations:
 
 
 interests:
-  - calcium fluorescence microscopic image processing
-  - deep learning
+  - Cryo-ET data analysis
+  - Deep learning
 
 
 # Social/Academic Networking

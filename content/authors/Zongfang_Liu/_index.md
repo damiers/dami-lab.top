@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Li Xiaoli
+title: Liu Zongfang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant (2021.09--2022.08); 
+role: Visiting Undergraduate Student (2021.09--2022.06) from Shandong University
 
 # Organizations/Affiliations
 organizations:
-  - name: now PhD @ University of Macau
-    url: 'https://www.um.edu.mo/'
+  - name: now Huawei Nanjing R&D Center.
+    url: 'https://aecom.com/projects/huawei-nanjing-rd-center/'
 
 # Short bio (displayed in user profile at end of posts)
 
 bio: 
 
 interests:
-  - Cognitive neuroscience
-  - Biomedical image processing
+  - Deep learning
+  - Super resolution
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

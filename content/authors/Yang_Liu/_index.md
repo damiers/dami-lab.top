@@ -6,7 +6,7 @@ title: Liu Yang
 superuser: true
 
 # Role/position
-role: Graduate Student of Shenzhen Institute of advanced technology
+role: Graduate Student (Since 2022) 
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Li Jiaxin
 superuser: true
 
 # Role/position
-role: Graduate Student of Shenzhen Institute of advanced technology
+role: Graduate Student (2021.08 -- )
 
 # Organizations/Affiliations
 organizations:
@@ -17,8 +17,8 @@ organizations:
 
 
 interests:
-  - Serverless compute 
-  - Cloud compute 
+  - Serverless computing 
+  - Cloud computing 
   - Deep learning
 
 

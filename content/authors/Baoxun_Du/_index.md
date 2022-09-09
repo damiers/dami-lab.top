@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Li Xiaoli
+title: Baoxun Du
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant (2021.09--2022.08); 
+role: Visiting Undergraduate Student (2022.08--) 
 
 # Organizations/Affiliations
 organizations:
-  - name: now PhD @ University of Macau
-    url: 'https://www.um.edu.mo/'
+  - name: Shandong University.
+    url: 'https://en.sdu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 
 bio: 
 
 interests:
-  - Cognitive neuroscience
-  - Biomedical image processing
+  - Deep learning
+  - Cell segmentation 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,5 +41,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Visitors
 ---
