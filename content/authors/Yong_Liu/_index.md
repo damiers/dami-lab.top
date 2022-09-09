@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Li Xiaoli
+title: Liu Yg
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant of Shenzhen Institute of advanced technology
+role: Graduate Student of Shenzhen Institute of advanced technology
 
 # Organizations/Affiliations
 organizations:
@@ -17,8 +17,9 @@ organizations:
 
 
 interests:
-  - Cognitive neuroscience
-  - biomedical imaging
+  - calcium fluorescence microscopic image processing
+  - deep learning
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,5 +41,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Grad Students
 ---
