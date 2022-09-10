@@ -11,15 +11,16 @@ role: Visiting Undergraduate Student (2021.09--2022.06) from Shandong University
 # Organizations/Affiliations
 organizations:
   - name: now Huawei Nanjing R&D Center.
-    url: 'https://aecom.com/projects/huawei-nanjing-rd-center/'
+    url: 'https://en.wikipedia.org/wiki/Huawei'
 
 # Short bio (displayed in user profile at end of posts)
 
 bio: 
 
 interests:
-  - Deep learning
-  - Super resolution
+  - Deep learning & Machine learning
+  - Image restoration
+  - Bioinfomatics
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,3 +44,4 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+I graduated from School of Information Science and Engineering, Shandong University with a Bachelor's degree in 2022。Currently, I am a Vision Algorithm Engieer of the [Hybrid Video Solution Department](https://carrier.huawei.com/en/old-solutions/Service-reconstruction/hybrid-video), Huawei Nanjing Research & Development Center. My research interest is ML/DL algorithms and it's application, especially in computer vision field. Besides, I'm passionate about using my algorithmic and programming skills to solve practical problems in different field. 
