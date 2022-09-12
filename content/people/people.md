@@ -20,8 +20,8 @@ content:
     - Postdocs
     - Grad Students
     - Research Assistants
-    - Alumni    
     - Visitors
+    - Alumni    
 design:
   show_interests: false
   show_role: false

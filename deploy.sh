@@ -1,2 +1,2 @@
 hugo 
-rsync -avzP --delete ./public/* /var/www/html/ 
+rsync -avzP ./public/* /var/www/html/ --delete 
