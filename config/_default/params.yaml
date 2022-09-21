@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} DAMI lab. This work is licensed under {license}'
+    notice: '© {year} DAMI lab. This work is licensed under {license}. 备案号： [粤ICP备2022047698号-1](https://beian.miit.gov.cn/)'
     license:
       enable: true
       allow_derivatives: false
