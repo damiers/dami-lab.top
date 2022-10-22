@@ -45,3 +45,4 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
+I am an older graduate student who has worked for three years. In order to improve my coding skills and increase my knowledge of neuroscience, I joined BCBDI. Now I'm working on some cloud computing related development work. But you know that sustainable code development is actually a huge project. So I hope to have friends who are also interested in cloud computing and neuroscience to join us. My hobbies are swimming and badminton, if you want to learn swimming, just join us, then I can teach you to swim.
