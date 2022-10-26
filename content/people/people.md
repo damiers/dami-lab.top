@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Postdocs
+    - Senior software engineer
     - Grad Students
     - Research Assistants
     - Visitors
