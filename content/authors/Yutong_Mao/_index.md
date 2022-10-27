@@ -43,3 +43,5 @@ highlight_name: false
 user_groups:
   - Visitors
 ---
+
+Yutong studies Mathematics (major) and Psychology (minor) at Pennylvania State University. She is interested in computational  neuroscience. 

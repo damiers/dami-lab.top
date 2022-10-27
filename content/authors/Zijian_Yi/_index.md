@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 interests:
-  - 篮球
+  - basketball 
   - computational neuroscience
   - large scale data processing
   - software architecture
@@ -44,7 +44,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Senior software engineer
+  - Senior Software Engineer
 ---
 - Tech Leader of two oversee startups
 - Data System Architect, designed multiple large-scale, high-performing, cross-region cloud data systems
