@@ -1,5 +1,5 @@
 ---
-title: Yutong Mao joined DAMI lab
+title: Zijian Yi joined DAMI lab
 date: 2022-10-18
 ---
 Welcome Zijian to our team!
