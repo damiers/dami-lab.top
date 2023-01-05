@@ -1,2 +1,2 @@
 hugo 
-rsync -avzP ./public/* /var/www/html/ --delete 
+rsync -avzP ./public/* /var/www/html/dami-lab.top --delete 
