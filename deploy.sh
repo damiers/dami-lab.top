@@ -1,11 +1,13 @@
+if git diff --quiet; then 
+	echo "update dami-lab.top"
+else
+	echo "no changes"
+fi 
+
 case $HOSTNAME in
 	(damiserver) 
-		if git diff --quiet; then 
-			hugo 
-			rsync -avzP ./public/* /var/www/html/dami-lab.top --delete
-		else
-			echo "no changes"
-		fi
+		hugo 
+		rsync -avzP ./public/* /var/www/html/dami-lab.top --delete
 		echo "done!";;
 	(*)
 		echo $HOSTNAME
