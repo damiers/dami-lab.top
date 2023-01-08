@@ -1,11 +1,10 @@
-git diff --quiet; nochanges=$? 
-if [$nochanges -eq 0]; then
-	echo "push to github and update dami-lab.toop"
-	git push 
-else
+if [ $(git status --porcelain | wc -l) -eq "0" ]; then
 	echo "no changes"
-	exit
-fi 
+	exit 1
+else
+	echo "push to github and update dami-lab.top"
+	git push
+fi
 
 case $HOSTNAME in
 	(damiserver) 
