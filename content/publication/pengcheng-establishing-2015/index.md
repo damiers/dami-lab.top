@@ -66,5 +66,5 @@ publication: '*PLoS computational biology*'
 doi: 10.1371/journal.pcbi.1004549
 links:
 - name: URL
-  url: http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=110330435&site=ehost-live
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004549
 ---
