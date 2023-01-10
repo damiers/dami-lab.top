@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: News
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''
@@ -25,5 +25,5 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 2
-  columns: '2'
+  columns: '1'
 ---

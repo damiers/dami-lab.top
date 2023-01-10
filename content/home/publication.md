@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 25
 
-title: Latest Publications
+title: Publications
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''
@@ -26,5 +26,5 @@ design:
   #   4 = Citation
   #   5 = Showcase
   view: 4
-  columns: '2'
+  columns: '1'
 ---
