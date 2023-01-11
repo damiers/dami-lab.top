@@ -19,10 +19,10 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '18689494'
   verification:
     google: ''
     baidu: ''
