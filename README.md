@@ -77,3 +77,24 @@ footer:
       allow_commercial: false
 ```
 
+### Add Baidu Tongji / Google Analytics 
+Please check the details on [Wowchemy tutorial](https://wowchemy.com/docs/hugo-tutorials/analytics/#%e7%99%be%e5%ba%a6%e7%bb%9f%e8%ae%a1). 
+
+A very practical guide is editting `config/_defaults/params.yaml`
+
+```yaml
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: '6e2d8420e0b61aed0869304327141461'
+  verification:
+    google: ''
+    baidu: ''
+    ```
+
