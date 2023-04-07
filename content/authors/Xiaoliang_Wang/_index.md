@@ -1,24 +1,22 @@
 ---
 # Display name
-title: Liu Yong
+title: Xiaoliang Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate Student (Since 2022)
+role: Visiting Undergraduate Student (2023.01--) 
 
 # Organizations/Affiliations
 organizations:
-  - name: Shenzhen Institute of Advanced Technology
-    url: 'https://www.siat.ac.cn'
+  - name: Fudan University
+
 
 # Short bio (displayed in user profile at end of posts)
 
+bio: 
 
-interests:
-  - Cryo-ET data analysis
-  - Deep learning
 
 
 # Social/Academic Networking
@@ -41,5 +39,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Visitors
 ---
+Hi, I am Xiaoliang Wang. I was introduced to the field of computational neuroscience as an undergrad majoring in biology and have fallen in love with it since. I am particularly interested in understanding neural computations with models. I am also excited about developing neural-inspired systems and deep learning. Right now I am working on a computer vision project to develop a workflow to group animal behaviors into meaningful clusters in an unsupervised manner.
